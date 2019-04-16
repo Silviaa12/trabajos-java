@@ -1,0 +1,28 @@
+java:
+ public static void main(String[] args) {
+       int edad =15;
+        if (edad <10)
+                System.out.println ("niños");
+            
+            else
+        if(edad <17)
+                System.out.println("adolecentes");
+            
+            else
+            
+        if(edad <29)
+                System.out.println("jovenes");
+            
+            else
+       
+        if(edad <59)
+                System.out.println("adultos");
+           
+           else
+       
+        if(edad <60)
+                 System.out.println("ancianos");
+           
+           else
+    }  
+}
