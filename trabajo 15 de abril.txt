@@ -1,0 +1,21 @@
+java:
+public static void main(String[] args) {
+  int n1=6,n2=2,n3=7;
+      if(n1>n2)
+      System.out.println("EL numero mayor es"+" "+n1);
+  else
+      if(n2>n3)
+      System.out.println("EL numero mayor es"+" "+n2);
+  else
+       if(n3>n2)
+      System.out.println("EL numero mayor es"+" "+n3);
+  else
+      if(n2>n1)
+      System.out.println("EL numero mayor es"+" "+n2);
+ 
+     
+ 
+
+// TODO code application logic here
+    }  
+}
